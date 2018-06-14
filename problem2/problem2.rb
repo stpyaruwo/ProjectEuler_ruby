@@ -6,7 +6,7 @@ n2 = 2
 loop {
   n3 = n1 + n2
   break if n3 >= 4000000
-  result += n3 if n3 %2 == 0 
+  result += n3 if n3 %2 == 0
   n1 = n2
   n2 = n3
  }
