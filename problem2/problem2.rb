@@ -12,3 +12,13 @@ loop {
  }
 
 puts result
+
+array = "Hello world".split(" ")
+
+p array
+
+array.each do |m|
+  puts m
+end
+
+
