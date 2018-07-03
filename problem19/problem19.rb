@@ -11,4 +11,3 @@ week = ["",'Mon','Tue','Wed','Thu','Fri','Sat','Sun']
 end
 
 puts monday_times
-
